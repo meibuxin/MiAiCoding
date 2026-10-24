@@ -6,6 +6,21 @@
 
 [简体中文](#咪爱编程--miai-biancheng) · [English summary](#english-summary)
 
+
+<!-- fork-download-note -->
+## 📥 下载（Windows 10/11 x64，免编译）
+
+本仓库是**构建分发仓库**，不需要装 Node、不需要自己编译，下载即用：
+
+| 文件 | 大小 | 说明 |
+| --- | --- | --- |
+| [miai-biancheng-0.1.0-setup.exe](https://github.com/meibuxin/MiAiCoding/releases/tag/v0.1.0) | 315 MB | 安装版，自动建桌面与开始菜单快捷方式，可正常卸载 |
+| [miai-biancheng-0.1.0-win-x64-portable.zip](https://github.com/meibuxin/MiAiCoding/releases/download/v0.1.0/miai-biancheng-0.1.0-win-x64-portable.zip) | 351 MB | 绿色版，解压即用，不写注册表 |
+
+全部产物见 [Releases](https://github.com/meibuxin/MiAiCoding/releases/tag/v0.1.0)。安装包未做代码签名，首次运行若弹 SmartScreen，点「更多信息 → 仍要运行」。
+
+源码与项目说明来自上游 [TCX123-a/MiAiCoding](https://github.com/TCX123-a/MiAiCoding)，本仓库仅做 Windows 构建分发。
+
 ---
 
 ## 目录
